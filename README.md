@@ -1,0 +1,2 @@
+# CoinSpy
+Binance analysis
